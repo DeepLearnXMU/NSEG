@@ -1,0 +1,408 @@
+instances:0-1|2-1|3-1|4-1 accuracy:1-2|3-2 approaches:2-3|5-1 error:2-1|4-2 number:2-1|3-1 training:2-1|3-1 approach:3-2|4-1|5-3
+algorithm:0-2|1-3|3-3 items:0-1|1-1 comparisons:0-1|2-1|3-1|4-1 methods:2-2|4-1|6-1 ranking:2-1|3-2|4-3
+learning:1-1|2-1 preference:1-1|2-1 choices:1-1|3-2 theory:2-2|3-3|4-3
+data:0-1|5-1 question:0-3|1-1 mixture:0-2|2-1|3-2|4-1|6-1 model:0-1|3-1|4-2|6-1|7-1 comparisons:0-3|2-1 models:2-1|5-2 algorithm:5-1|7-3 parameters:6-3|7-2 decomposition:7-2|8-1 tensor:7-1|8-1
+p:0-1|2-1|4-1|5-1 distribution:0-1|2-1|3-1|4-1|5-1|7-1 probability:0-1|2-1|3-1 problem:1-2|7-1 estimation:1-1|3-1 density:1-1|3-1 algorithm:1-1|4-2|6-1|7-3 hypothesis:2-1|3-1|4-1|5-1|7-1 k:4-1|5-1|7-1 time:4-1|6-2 h:4-1|5-3 c:5-3|7-2 size:6-3|7-1 sample:6-1|7-1
+learning:0-1|1-1|2-1 problems:0-1|2-1 methods:1-1|2-1|3-3 model:3-1|4-2 mixture:3-1|4-1 images:4-1|5-1
+density:0-1|1-1|3-1|5-1|6-2 version:1-2|2-3 robustness:3-3|6-2 norm:4-1|5-1
+learning:0-3|1-1 data:0-1|1-1|4-1 framework:1-3|2-1 properties:2-2|4-2 method:3-1|4-3 combination:3-1|4-2
+integration:0-3|1-1|4-1 information:0-1|2-2 neurons:2-1|3-1 estimation:3-2|4-1 density:3-1|4-1 model:3-1|4-1
+databases:0-1|4-1 model:1-1|2-2 observations:2-1|3-1|4-1
+data:0-1|1-1|3-1 algorithm:2-2|3-1 inference:2-2|3-1 model:2-1|3-1
+vectors:0-3|3-1 coefficients:0-3|5-1 regression:2-1|3-1|4-1 lasso:2-1|7-2 relevance:2-1|4-1 model:2-1|3-2|5-1 dependencies:2-2|4-2 variances:4-1|5-1 weights:4-1|6-2
+trees:0-1|2-1|5-1 decision:0-1|5-1 tasks:0-1|1-1 performance:1-2|4-2|7-2 data:2-1|4-2 training:2-1|4-1 batch:4-1|6-1|7-1
+sampling:0-1|3-1 convergence:2-2|3-2
+data:0-1|2-1|3-1|4-1 learning:1-1|2-1
+framework:0-2|1-1 learning:0-1|2-1|3-1 kernels:1-2|2-3
+methods:0-3|1-1|2-1|3-1|6-2 kernel:0-1|1-1|2-1|3-1|5-1|6-1 nets:0-3|6-1|7-1 problems:0-1|3-2 approach:2-2|3-3|6-3|7-1 features:3-2|4-1|7-2 function:4-1|5-1
+kernel:0-3|1-1|3-1 pca:0-1|3-1 estimator:1-1|2-1 estimators:2-1|3-1|5-3 basis:2-1|3-2
+algorithms:0-2|4-2 embedding:1-1|3-2 subspace:1-1|2-1|4-1 data:1-1|2-2|4-1 matrix:1-1|4-1 space:1-1|2-2 kernel:1-1|2-1|3-1|4-1 embeddings:2-2|4-2
+rate:0-1|1-3|2-1|3-1|4-2|5-2 learning:0-1|1-1|2-1|4-1|5-1 guarantees:2-2|5-3 practice:3-1|4-1 method:5-3|6-3
+algorithms:0-2|1-2|5-3 gradient:0-1|1-1|4-1|5-1 updates:0-1|5-2 methods:1-1|5-1 algorithm:2-2|3-1
+prediction:0-1|1-3 minimax:1-1|3-1 statistic:2-1|3-1
+problems:0-2|1-1|3-1|8-1 decision:0-1|2-1|6-1 decisions:0-2|1-1 space:0-1|2-1|6-1 costs:1-1|2-3 representation:1-1|2-1|6-1 vector:2-1|6-1 algorithm:3-3|4-1|8-3 polytope:6-1|8-2
+mdp:0-1|1-1 bounds:1-2|3-2|4-2 regret:1-1|3-1 reinforcement:3-1|4-3
+risk:0-2|1-1 problem:2-2|6-1 gradient:3-2|4-2 algorithms:4-1|5-1|6-1
+tasks:0-2|1-1|2-1|4-3 set:1-1|2-3 features:1-1|4-1 algorithm:3-1|4-3
+trajectory:0-1|2-1 dynamics:0-1|1-1 programming:0-1|2-2 policy:3-2|5-1 search:3-1|5-1
+sampling:0-3|1-1|3-1 importance:0-1|1-1|3-1 algorithms:0-2|1-1 benefits:3-2|4-3
+theory:0-2|3-1|6-1 representation:0-1|3-1|6-1 functions:0-2|1-3|2-2|3-2|4-1 loss:1-1|2-1 set:1-2|4-2
+mixtures:0-1|1-1|2-2|5-1 estimator:1-2|3-3|5-2 k:2-1|4-1|5-1 samples:2-2|3-1|5-2 o:2-3|5-1 time:2-1|5-1
+analysis:0-2|7-3 pca:0-1|1-1|5-1|8-1 problem:1-3|6-2 rate:2-2|10-1|11-2 convergence:2-1|3-1|11-1 convex:3-1|8-1 guarantees:4-2|7-2|12-1 procedure:5-2|9-1|10-3|12-3 estimator:5-2|8-2|11-3 subspace:5-1|11-1 stage:6-3|10-1 algorithm:6-2|7-3 region:7-1|8-1
+expert:0-1|2-1 levels:2-1|3-3
+minimax:0-1|3-1 estimation:0-1|1-1 storage:1-1|3-1 risk:2-2|3-1
+functions:0-3|1-2|2-2 algorithm:2-2|3-3|4-3
+constraints:0-1|1-1|2-1 method:1-1|2-3 direction:1-1|2-1 blocks:1-1|3-2|5-1 block:2-1|3-1|5-2 descent:3-1|5-2
+estimators:0-1|4-1 problems:0-1|1-1 convexity:2-1|3-1 methods:2-3|5-1 function:3-1|5-3|6-3 condition:4-1|5-1|6-2 convergence:5-2|6-1
+method:0-1|3-1
+tradeoff:0-2|2-1 optimization:0-1|1-1 problems:1-2|2-1
+m:0-1|1-2 manifold:0-1|1-1 framework:1-2|2-1
+problem:0-1|1-1 inference:0-1|1-1|3-1 map:0-1|3-1 tasks:1-1|3-1
+responses:0-2|7-1 integration:0-2|1-1 stimulus:0-1|5-3 neurons:1-3|7-1 stimuli:1-1|10-1 model:2-2|4-1|5-1|6-3|7-3|10-1 changes:2-2|6-1 level:4-1|7-1 trains:4-1|8-1|10-1
+cortex:0-1|7-1 activity:0-1|2-1 recordings:1-1|3-1|7-1 stimulus:1-1|3-1|4-1 dynamics:1-1|3-2|4-1 model:2-2|3-3|4-3|7-2 population:2-1|3-1|6-1 field:2-1|4-1 inputs:4-1|7-1 number:4-1|7-2
+method:2-2|3-3|5-2 pursuit:3-1|4-1|5-1 matching:3-1|5-1
+evidence:0-1|1-3 brain:0-3|1-1 inference:0-2|1-1 domains:0-1|8-1 activity:1-1|7-1 samples:1-2|2-2 chain:1-2|8-1 markov:1-1|8-1 algorithm:1-1|4-1 bottleneck:2-2|3-2 sampling:3-1|4-1 networks:3-1|6-2|7-1 posterior:5-3|7-1
+animals:0-3|2-1 model:0-2|4-1 agents:1-3|3-1 models:1-2|3-2 environments:1-1|2-1 spaces:1-1|3-1 state:1-1|3-1
+networks:0-3|1-1|2-1|3-1 training:2-1|3-1
+system:2-3|5-1
+methods:0-2|1-2 bp:0-1|5-1|11-1 bayes:1-1|4-1 expectation:1-1|5-1 ep:1-1|2-1|4-2 posterior:3-2|4-1|12-2 weights:3-1|4-1|8-3|12-1 algorithm:5-3|10-2 efficiency:5-1|9-1 tasks:10-1|11-1
+learning:0-3|1-1|2-1 language:0-1|4-1|5-1 sentences:1-1|3-1 representations:2-1|3-2 word:2-1|3-1|5-1 languages:2-1|3-1 approach:4-1|5-3
+sequences:0-2|1-1|4-1 solution:1-2|2-3 weights:1-1|3-1
+perception:0-1|1-1 data:1-2|3-1 eeg:1-1|4-1 classification:3-1|4-1 accuracy:4-1|5-1 subjects:4-1|5-1
+network:0-2|3-3|9-3 spiking:0-1|5-1 inference:0-2|3-1|4-1|7-1 model:0-1|6-3|9-2 markov:0-1|9-1 neurons:1-3|2-3|4-1|8-1 layer:1-1|2-1 states:1-1|2-1 world:1-1|2-1|4-1|8-1 distribution:2-2|5-2 population:4-1|5-1 state:4-1|5-1|8-1
+networks:0-3|3-3 performance:0-1|7-2 tasks:0-1|2-1 word:1-1|2-1|6-1 step:3-2|7-3 representations:4-1|6-1 task:5-1|7-1
+feedback:1-1|4-1|6-1 attention:3-1|5-2 network:3-1|5-2 classification:4-1|5-1
+training:0-1|2-1 density:0-1|3-1 step:0-2|1-1 inference:0-1|1-1|2-1 model:1-2|2-3
+training:1-1|2-2 layers:2-2|3-1
+learning:0-1|2-1 representation:0-1|2-1 modalities:0-1|1-1 networks:0-1|6-1 data:1-1|4-1 model:1-3|3-2
+model:0-2|2-1|3-1|4-2 phenomena:0-1|1-3|2-1|4-2 choices:0-1|4-1 choice:2-1|3-1|4-1 data:3-1|4-1
+model:0-2|1-3|2-2|4-3 retrieval:0-1|3-1|4-1 images:0-1|1-2|3-1 sentences:0-1|1-1|3-1 embedding:0-1|1-1 level:1-1|3-1
+architecture:0-2|1-2 network:0-1|1-1 labeling:0-1|6-1 propagation:1-1|3-3 information:2-1|3-2|4-1 image:2-1|4-1|6-1
+framework:0-2|5-3 image:0-1|1-1|2-1 applications:0-1|7-1 approach:1-3|7-2 patterns:1-2|3-1|4-1 representation:1-1|4-1 properties:2-3|3-1
+object:0-1|1-1 detection:0-1|3-1
+vector:0-1|5-1|7-2|9-1 gradient:0-1|7-1 model:0-1|1-2|5-2|6-1|7-1 features:0-1|1-1|2-1|3-1|4-1 fisher:0-1|7-1|9-1 method:0-1|9-3 classification:0-1|8-2|9-1 image:0-1|8-1|9-1 performance:2-1|9-2 number:3-3|4-2 feature:3-1|5-1|8-1 problems:6-1|9-1
+features:1-1|6-1 templates:2-2|3-2|6-2 feature:2-1|6-2|7-1
+label:0-1|3-1 training:2-1|3-1|4-1 algorithm:3-2|4-1|5-3 supervision:4-1|5-1 method:6-2|7-3 detection:6-1|7-1 object:6-1|7-1
+methods:0-3|2-3 classifier:0-2|1-2|3-1 test:0-1|1-1|2-1|4-1|6-1 subset:0-2|4-2|6-1 instances:0-1|2-3|3-1 training:0-1|3-1|4-1|6-1 example:0-1|1-2|2-1|4-1 data:1-1|4-1 model:2-2|4-2|6-2 approach:5-2|7-2 classification:5-2|7-1
+space:0-2|1-1 entities:0-2|1-2 attributes:0-1|2-1 category:1-2|2-2|3-1 combination:1-1|2-1 model:2-2|3-2 regularization:2-1|3-1
+attributes:0-2|1-1 category:0-1|1-1|6-1 images:1-2|2-1 training:1-1|6-1 predictions:2-3|3-1 models:3-2|4-2
+method:0-2|5-3 image:0-1|1-1|3-1 model:0-1|1-2|2-1|4-3 relations:0-1|1-3 measurements:0-1|1-1 parts:1-2|3-1 relationships:1-2|2-1|3-1
+framework:0-2|1-1|5-3|6-2 model:0-1|1-1 selection:0-1|1-1|2-1|5-1|6-1 regression:0-1|2-1|4-1 condition:1-1|5-1 intervals:2-2|4-1 confidence:2-1|4-1 hypothesis:2-1|4-1
+models:0-1|2-2 regression:0-1|5-1 settings:0-1|2-1 methods:1-1|2-2|3-1 analysis:3-2|5-1|6-2 setting:3-1|5-1
+regression:0-1|2-1|3-1|4-1|6-2 feature:0-1|3-3 data:1-1|3-1|5-1 efficiency:4-2|6-1
+norm:0-1|3-1|4-2|5-1|6-1 estimation:0-1|3-1|6-1 operator:2-1|5-2 bounds:3-1|6-2 analysis:6-1|7-2
+method:0-2|1-1|4-1|5-3 feature:0-1|1-1|5-1 selection:0-1|1-1|5-1 classification:0-1|2-1 data:0-1|4-1|5-1 theory:1-1|3-2 features:2-1|3-1|4-2 task:2-1|4-1 performance:4-1|5-2 methods:5-1|6-1
+norm:0-1|2-1|3-2|4-1|6-1 k:0-1|2-1|3-1|6-1 vector:0-1|3-1 norms:1-1|3-2|5-2 matrix:3-1|5-1|6-1
+process:0-1|1-1 partition:0-1|2-1 probability:1-1|2-1 partitions:1-2|2-1 data:1-1|2-1 number:1-2|2-1
+mixture:0-3|3-3 data:1-3|2-1|3-1|7-1 distributions:1-2|3-1|5-1 cluster:1-1|3-1|4-1 modeling:2-1|3-1 sets:2-3|3-1|7-1 clusters:2-3|7-3 model:4-3|7-3 gibbs:6-1|7-1
+algorithm:0-2|8-2 model:0-2|5-1|6-2|8-2 topic:0-1|1-1|2-1|3-1|6-1|11-1|13-1 dependencies:2-1|5-3|13-2 word:2-1|5-1|11-3|13-1 models:2-1|3-1|11-1|13-1 words:2-1|6-1 p:6-1|7-1|8-1 results:7-2|13-2 datasets:7-1|8-1
+model:0-2|1-1 factor:0-1|1-1 modeling:0-1|5-1 word:0-1|1-1 framework:2-3|5-1 inference:3-1|4-2 datasets:4-1|5-1
+models:0-3|6-1 topic:0-1|4-1|6-1|7-1|10-3 documents:0-1|1-1|8-1 distributions:0-1|9-1 words:0-1|6-1|7-1 topics:0-1|1-2|8-2 problem:1-3|5-2 inference:1-1|2-1|5-1 collection:1-1|8-1 assumption:2-2|8-1 algorithm:2-2|3-2|5-2|8-1|10-1|11-3 model:3-1|5-2 lda:3-1|6-1 error:4-1|5-1 probability:4-1|10-1 assumptions:5-2|11-1 svd:5-1|8-1 group:6-1|7-1 contribution:8-3|9-2 corpora:8-1|11-1
+labels:0-1|1-1|2-1|3-1 label:0-1|2-1 set:1-1|2-1 documents:1-1|3-1
+clustering:0-1|1-1|2-1|3-1|5-1|7-1|8-1 data:0-1|1-1|3-1|5-1 similarity:0-1|1-1|5-1|6-1|8-1 points:0-1|1-1|5-1 kernel:1-1|5-1|6-1 framework:2-2|3-3|4-1 classifier:3-2|4-1|7-1|8-2 error:3-2|5-3|7-3 generalization:3-1|5-1|7-1 classifiers:3-1|4-2|5-1|6-1 distribution:5-2|6-1 density:5-1|7-1 terms:5-1|6-3
+clustering:0-1|1-1|2-1|3-1 number:1-2|3-1
+clustering:0-2|1-1 problem:0-1|2-1 data:1-1|3-1
+paper:0-1|2-3 analysis:0-2|2-2 convex:0-1|3-1 optimization:0-1|3-2 clustering:0-1|3-1
+problem:0-2|3-1 clustering:0-1|4-1|7-1 subspace:0-1|1-1 points:0-3|1-1|4-1 subspaces:0-2|1-2|2-2|4-1|6-1 performance:2-3|4-2 algorithms:3-2|4-1|7-1 conditions:4-1|5-3
+problem:0-2|2-1 clusters:0-2|2-1 programs:1-2|2-1 size:1-1|2-1 data:2-1|4-1
+data:0-1|2-1|5-1 subspaces:0-1|2-1 world:0-1|5-1 reduction:1-3|3-1|4-1|5-1 dimensionality:1-1|3-1|4-1|5-1 independence:1-1|2-1
+clustering:0-3|1-1|2-1|4-1 problem:1-1|2-1
+sampling:0-1|1-1|4-2 column:0-1|1-1|4-1 data:1-1|3-1|7-1 points:1-1|3-1 measure:3-1|4-2 graph:3-1|6-1 computation:5-2|6-2 matrix:5-1|6-1
+framework:0-1|1-1 classification:0-1|4-1 features:2-1|3-1
+methods:0-3|1-1 computer:0-1|2-1 behavior:1-1|4-2 sample:1-1|4-1 model:2-3|4-2 algorithm:3-1|5-3
+markov:0-1|2-1 sampling:2-3|4-1 gibbs:2-1|4-1 parameters:3-1|4-1
+trees:0-1|1-1|6-1 edges:2-1|3-1 tree:2-1|3-1|5-1
+models:0-1|1-1
+class:0-2|3-3 estimators:0-1|3-1 models:0-1|4-1 settings:0-1|1-1
+structure:0-2|5-1 graph:0-1|5-1 model:0-2|5-3 models:2-2|4-1|6-1|7-2 class:2-1|4-2|7-2 algorithms:2-1|6-3 learning:3-1|5-1|7-2 o:4-1|7-1|8-1 algorithm:4-1|8-2 correlation:5-1|6-1 decay:5-1|6-1 strength:6-3|8-1
+problem:0-2|2-1|4-1 structure:0-2|2-1|4-2 models:0-1|1-3|2-1|3-2|4-1 chain:0-1|1-1|2-1|3-1|4-1 graph:0-1|1-1|2-1|3-1 learning:2-1|4-1 recovery:2-1|4-1 regression:3-1|4-1
+function:0-1|8-1|9-1 minimization:0-1|7-2|8-1 problem:0-1|7-1 time:1-1|4-1|8-1 algorithm:2-2|3-3|4-1|5-1|6-3|8-1|9-3 point:2-2|6-1|7-1|9-1 norm:2-1|3-1|4-1|8-1 minimum:3-1|4-1|8-1 performance:3-2|4-1 analysis:4-2|5-2 o:6-2|7-1|9-1 solution:6-1|7-3
+s:0-3|1-1|2-1|4-1 scheme:1-1|2-1|4-2
+labels:1-1|2-2 structures:1-1|3-1 formulation:2-2|5-3 prediction:2-1|3-1 vectors:2-1|4-1 parameters:2-2|4-2
+optimization:0-1|5-1|6-1 search:0-3|3-1 entropy:0-1|2-1|3-1
+prediction:0-1|1-1 solutions:0-1|3-1 proposals:0-1|5-1 functions:3-1|4-1
+analysis:0-2|2-1|3-3|5-2|7-1 convergence:0-1|1-1|3-1 method:0-2|2-1 power:0-1|2-1 matrix:0-1|2-1|8-1 result:1-3|6-3|9-3 algorithm:1-1|4-2|7-2|8-1 number:2-2|3-2 applications:2-1|3-1 problems:2-1|3-1 streaming:2-1|4-1 component:2-1|7-1 pca:2-1|4-1 bounds:3-2|7-2|8-2 model:4-1|6-1 covariance:4-1|6-1 improvements:6-2|9-1 error:7-1|8-1
+regularizers:1-1|5-1 feature:2-1|4-1 reduction:2-1|3-3|4-1
+computation:0-3|7-1 algorithms:0-1|2-1 communication:0-1|2-1|5-2 problems:1-1|3-2 features:1-2|4-1 algorithm:2-2|3-2|4-3|5-3 guarantees:2-1|5-2 performance:2-1|7-2 selection:3-1|4-2|6-1|7-1 subset:3-1|4-1 feature:4-1|5-1 estimation:6-1|7-1
+algorithm:0-2|6-3 search:0-1|3-1 maximum:0-1|3-1 product:0-1|1-1 problem:1-1|3-1 finding:1-1|3-1 schemes:1-2|2-2|7-1 framework:2-2|5-1 paper:2-1|5-3 observation:3-1|4-3 scheme:4-2|5-1|7-3
+systems:0-1|1-1 items:0-1|2-1|5-1|7-1 users:0-1|2-1|3-1|5-1|7-1 time:0-1|4-1|5-1|6-1 model:1-2|2-1 item:1-1|3-1|4-2 learning:1-1|6-1 performance:1-2|6-2 types:3-1|7-1 k:3-1|6-2 step:4-1|7-2 literature:4-1|7-1 steps:6-1|7-1 algorithm:6-3|7-3
+clustering:0-1|4-1 graph:0-1|4-1 nodes:0-1|1-1 results:4-3|6-1 graphs:4-1|5-1
+search:0-1|1-1|7-1 performance:2-1|3-3 methods:2-3|7-1 code:2-1|4-1 optimization:3-1|5-1|7-1 codes:3-2|5-2|6-2|7-1 graph:5-2|7-2
+machine:0-1|5-1|6-1 algorithms:0-2|5-1 variables:1-1|5-1|6-1 algorithm:2-2|4-2|5-1 clusters:2-1|6-1 number:3-1|5-2 performance:3-1|6-2 learning:5-1|6-1
+matrices:0-2|8-1 recovery:1-1|4-1 performance:2-3|4-3 data:2-3|3-1|4-1|5-1|7-1 number:4-3|6-1 cluster:4-1|6-1 coherence:4-3|5-1|6-1 dictionary:5-1|6-3
+algorithms:0-1|1-3|4-1 matrix:0-3|2-1|3-2 matrices:1-1|4-1 data:1-1|3-1 methods:2-1|3-3
+retrieval:0-1|1-1 dynamics:2-2|5-1 networks:2-1|4-2|5-2|6-3 memory:2-1|6-1|7-1 constraints:2-2|4-1 neurons:3-3|5-1
+rule:0-3|1-3 learning:0-1|1-1
+activity:0-1|2-1 population:0-1|2-1|3-1|4-1|5-1|6-1|7-1 circuits:0-1|1-1 inputs:0-1|1-1 states:0-1|1-1|2-2|3-1|5-1|6-1 model:2-2|3-1|6-3 recordings:2-1|4-1|6-2 parameters:3-1|4-1|5-2
+activity:0-1|1-1 models:0-1|1-3|2-2|3-1 factor:0-1|2-1|3-1 structure:1-2|3-2|6-2 aspects:1-1|3-2 cells:1-1|2-1 model:2-2|3-3|4-1|6-1 neurons:2-1|6-1 clustering:3-1|5-1|6-1 data:4-1|6-1 parameters:4-1|5-2 em:4-1|5-1
+fields:0-1|1-3|2-3|3-3|6-1 place:0-1|1-1|2-1|3-1|4-1|6-1 space:0-1|2-2|5-1|7-1 locations:1-1|3-1 structure:1-1|4-1 learning:2-2|5-2|8-1 reinforcement:2-1|5-1|8-1 transition:3-1|4-1 cells:6-3|8-1
+imaging:0-3|1-2|4-1 connectivity:0-2|1-1|5-1|6-2 circuits:0-1|6-1 neurons:0-1|4-1 systems:1-3|4-1 estimation:2-2|3-1|5-1 state:2-1|3-1|5-1 system:2-1|4-1 method:3-2|6-2|7-1 hybrid:3-1|5-1
+cell:0-1|1-1
+uncertainty:0-2|4-1 distributions:0-1|1-1|2-2 model:2-2|3-3|4-3
+framework:0-2|5-1 learning:0-1|4-1 features:0-1|3-1 input:1-1|2-1 model:2-2|5-3
+attention:0-1|1-2 models:1-1|6-2 region:2-1|5-1 interest:2-1|3-1 scene:2-1|3-1 model:3-3|5-3|6-3 images:5-2|6-1 faces:5-1|6-1 face:5-1|6-1
+performance:0-2|9-2 learning:0-1|2-1 sequence:2-1|3-2 target:3-1|9-1 dataset:4-1|6-1 score:4-2|6-2|7-3 words:4-1|9-1 sentences:5-1|9-3 system:6-3|7-1 order:8-1|9-2
+networks:0-3|4-1 layer:0-1|2-1|3-1|4-1 features:0-2|1-3|2-3|5-1|6-2|7-1 dataset:1-1|7-1 task:1-1|4-1|6-1 tasks:1-1|6-1 network:2-1|3-1|5-1|7-2 neurons:3-1|4-1 issues:4-1|5-1 target:4-1|6-1|7-1
+goal:0-3|1-2 recognition:0-1|6-1 network:1-1|2-3|4-1|5-1 invariance:1-1|5-2 kernel:1-1|2-1 ones:3-1|4-1 accuracy:4-2|6-3
+recognition:0-3|1-1|5-1 scene:0-1|1-1|4-1|5-1 tasks:0-1|1-1|2-1|5-1 object:0-1|1-1 datasets:1-1|4-1|5-1 networks:1-1|6-1 features:1-2|2-3|5-2
+trees:2-2|3-1 expression:2-1|3-1 target:2-1|3-1 complexity:2-1|3-1 search:3-3|4-2|6-1 approaches:4-2|6-3
+measurements:1-3|2-1 machine:1-1|2-1 analysis:1-1|2-1 data:1-1|4-1 features:2-2|4-2
+sets:0-1|1-1 data:0-1|1-1 learning:1-1|3-1 models:1-2|3-1 approaches:2-3|3-3
+networks:0-1|4-2 action:0-1|6-1 video:0-1|7-1|8-1 learning:2-1|6-3 architecture:4-2|7-1 performance:5-2|6-2 data:5-1|6-1 training:5-1|6-1 classification:6-1|8-1
+labeling:0-3|2-2 energy:0-1|1-1 function:1-3|5-1 distance:1-1|5-1 algorithms:2-2|4-1|6-1 relaxation:2-3|3-1 lp:2-1|3-1 procedures:3-1|4-1
+convergence:0-1|1-2 sgd:0-1|1-1|2-1 dependence:0-2|1-2 results:1-2|2-1
+method:0-2|1-3|2-2|3-3 gradient:0-1|1-1 problems:0-1|3-1 rates:1-2|3-2 convergence:1-1|3-1
+framework:0-2|2-3 solution:0-1|1-1|2-2 inference:1-1|2-1
+matrix:0-2|2-2|4-1 entries:0-1|2-2|4-1 systems:1-1|3-1 classification:1-1|3-1
+accuracy:0-1|2-1 users:0-3|1-1|2-1|3-1 information:0-2|2-1|3-2 preferences:0-1|1-2|4-1 privacy:1-1|3-1 access:2-1|4-1 user:2-1|4-1
+poisson:0-1|2-1 model:0-1|4-1|6-3 preferences:0-1|2-1
+items:1-1|2-2|3-1 rankings:1-1|7-2 users:1-1|2-1|3-1 error:2-2|3-1|4-1|6-1 estimation:2-1|3-1|4-1|6-1 oracle:3-2|6-3 estimator:4-1|6-3|8-2 maximum:4-1|6-1|8-1 likelihood:4-1|6-1|8-1 comparison:4-1|5-1 factor:6-1|8-1 comparisons:7-1|8-1
+accuracy:0-1|8-2 retrieval:0-1|1-1 samples:1-1|6-2|7-1 loss:1-1|7-3 complexity:2-3|4-1 inference:2-1|4-1|5-1 datasets:2-1|8-1 training:2-1|8-1 approaches:3-2|8-3 approach:4-3|5-3|7-3 classification:7-2|8-2
+algorithm:0-1|1-3|2-3
+bounds:0-2|1-2|4-1 networks:2-1|3-1|4-1
+events:0-1|2-2 network:0-1|1-1|2-1|3-3|4-1 activity:1-1|2-1|3-1|4-2 event:2-1|4-1
+functions:0-3|1-2 analysis:1-1|3-2|4-1 network:1-1|4-1
+functions:0-1|2-1|3-1|5-1|8-1|9-1 loss:0-1|1-1|2-1|3-1|5-1|8-1|9-1 k:0-1|6-1|9-2 design:1-1|2-1 techniques:2-1|10-2 learning:2-2|3-1|4-1|5-1 batch:2-1|4-1 model:4-3|5-3|6-1 regret:4-1|6-1 bounds:4-1|6-2 losses:6-2|10-1 convergence:9-1|10-1
+problem:0-2|1-2 planning:0-1|2-1 complexity:1-1|3-3 model:1-1|3-2
+notion:0-1|4-2 regret:0-1|1-1|2-2|4-1 history:0-1|2-1 results:1-1|3-2|5-2 minimization:1-1|4-1
+feedback:0-1|1-2 learner:0-3|1-3|2-1 outcomes:0-2|4-2 loss:1-2|2-2 outcome:1-1|5-1 distribution:4-1|5-2 algorithm:6-3|7-3 regret:6-1|7-1
+model:0-2|1-3|2-1 models:0-1|4-1 inference:0-3|1-2|2-3|3-3 process:1-1|4-1
+patterns:0-2|2-3 methods:1-3|3-1|8-2 kernel:1-3|3-1|4-2 processes:1-1|4-3 pattern:1-1|6-1|9-1 scale:2-1|6-1|9-1 process:2-1|4-1|6-1|8-1 challenges:2-2|4-2 kernels:3-1|7-1|9-1 datasets:4-1|7-1 approach:4-3|6-2 model:4-2|5-1|9-1 structure:5-2|9-2
+learning:0-3|4-1 setting:0-1|2-1 information:0-1|1-1|4-1 knowledge:0-1|3-1 process:0-1|1-1 training:0-1|2-1 classifier:0-1|1-1 data:0-1|2-1 noise:1-1|3-2 function:1-1|2-3
+method:0-2|5-3 inference:0-1|5-1 models:0-1|4-1|5-2 gp:0-1|1-1 distribution:1-1|2-1 sampling:1-1|4-1
+models:0-1|1-1|3-1 learning:1-1|2-1|5-1 inference:4-1|5-2
+variances:0-1|3-1|4-1 data:0-1|7-1 relationships:1-2|4-2 problems:3-2|6-2 model:3-1|4-3 inference:5-1|6-1
+functions:1-1|2-1 regret:1-1|2-1
+problem:0-1|1-1 arms:0-1|1-1 reward:0-1|1-1|3-1 rewards:1-3|2-1 regret:1-1|3-1
+resources:0-2|1-2 sources:0-1|3-1 experiments:2-1|5-1 algorithm:4-1|5-2
+problem:0-2|1-1 information:0-1|7-1 bandit:1-1|5-1 vector:1-3|2-1 context:1-1|2-1|4-1 action:1-2|3-1|4-1|7-1 reward:1-2|3-3|4-3|6-1 time:1-1|7-1 type:2-1|4-1|7-1 relation:3-2|4-3|5-2 actions:3-1|6-1 types:3-1|7-1 relevance:3-1|5-1 algorithm:4-2|5-3|6-1 o:4-3|5-2 probability:4-1|6-1
+actions:0-1|1-3|2-1 time:0-1|1-1 algorithms:2-2|3-2|4-3|5-1|7-2 settings:3-1|5-1 bandit:5-1|6-1
+trees:0-1|1-1
+alignment:0-2|1-1|2-1|3-1|4-1 time:0-1|1-1 learning:1-1|3-3|4-1 task:1-1|2-1|3-1 performance:3-1|4-1
+class:0-2|1-1 problems:0-1|1-1|3-1|5-1 values:0-1|2-2 gradient:0-1|2-1 crfs:1-2|2-1 labeling:1-1|5-1 sequence:1-1|5-1 classification:1-1|5-1 algorithm:3-1|4-3|5-3
+learning:0-1|4-1 classification:0-1|3-1 loss:0-1|1-1 boundaries:2-2|3-1
+constraints:0-1|1-3|2-3|3-3 information:0-1|2-1 data:0-1|1-1 memory:1-1|3-1 problems:1-2|3-2 communication:1-1|3-1
+graphs:0-3|2-1|3-1|5-1|7-1 unit:0-1|2-1 vertices:0-1|6-1 graph:0-1|4-1|6-1|7-1|8-1|9-1 class:2-1|3-1 setting:4-1|8-1 analysis:5-1|9-3 complexity:5-1|6-1|7-2 properties:5-1|7-1 sample:6-1|7-1
+brain:0-3|1-1 codes:0-2|1-2|6-1 population:0-1|1-1|2-1|3-1|6-1 optimality:1-2|8-1 neurons:2-2|4-2 noise:2-1|3-3|7-1|8-1 input:3-1|7-1 populations:4-1|5-1|7-1|8-1 analyses:5-2|6-3 loss:6-1|7-1
+observations:0-1|2-1 framework:1-1|2-1 control:1-1|2-1|3-1|4-1|5-1 adaptation:4-1|5-3|6-2 perception:4-1|5-1
+problem:0-3|1-1|2-1 algorithms:0-1|1-1|2-3 maximization:0-1|3-1 function:0-2|2-1 privacy:0-1|3-2 learning:1-1|4-1 machine:1-1|4-1
+privacy:0-3|1-1|5-1 information:0-3|1-1|3-1 data:0-1|1-3|4-1 utility:1-2|2-2|3-2 functions:1-1|3-1 mechanisms:2-2|5-3 mechanism:2-2|3-1 program:3-2|4-2
+problem:0-2|1-2 workers:0-1|1-1|2-1 \em:1-1|4-1 algorithm:2-1|3-3|4-1|5-3 label:3-1|5-1
+predictor:0-3|2-1 system:0-1|3-2 feedback:1-1|2-2
+algorithms:0-1|1-1|3-2 tensor:0-1|4-1 algorithm:2-3|4-1
+graphs:0-1|2-1|4-1|8-1 applications:0-1|2-1|4-1 gp:1-1|2-3|3-1|4-1|5-1|6-1 performance:1-2|4-2 balance:1-1|7-2 cost:1-1|7-2 communication:1-1|7-1 distributions:2-3|6-1 degree:2-1|6-1 methods:3-1|4-3|7-1 power-law:4-1|8-1
+algorithm:1-2|2-1
+framework:0-2|1-1 group:0-1|1-1|2-1|3-3
+estimation:0-3|3-1 covariance:0-1|1-1 sample:1-1|6-1 data:3-1|7-1 bias:3-2|6-1 work:4-3|6-1 estimator:6-3|7-2
+system:0-2|2-1|4-3 structure:0-2|3-1 dynamics:0-1|3-1 recovery:1-1|4-2 problem:2-1|3-1 formulation:3-2|4-1
+data:0-1|1-2 problems:1-1|2-2|3-1 paper:2-1|8-2 algorithm:2-2|4-1|6-1|7-1 matrix:3-1|4-1 basis:4-1|5-2|6-3 coefficients:4-1|5-1
+problem:0-3|1-1|2-1 vector:0-2|2-1|5-1 subspace:0-1|5-1 learning:1-1|6-1 dictionary:1-1|6-1 fraction:2-3|3-3 entries:2-1|3-1 target:2-1|5-1
+paper:0-1|2-3 signals:0-1|1-1|3-2|4-1 model:0-1|1-1 matrices:0-1|3-1|4-1 precision:0-1|3-1|4-1 signal:1-1|2-1 measurements:1-1|2-1|3-2|4-3|5-1 method:3-2|5-1 sparsity:3-2|4-1 performance:4-1|5-1
+networks:0-2|1-2 data:1-3|2-2|3-1 brain:1-1|2-1|3-1 regions:2-1|3-1
+activity:0-3|1-1|2-1|6-3 firing:0-2|3-2 stimulus:0-3|1-1|3-1 responses:0-2|5-2 system:1-1|6-3 information:1-1|3-1|7-1 view:2-1|3-1 network:2-1|3-1
+analysis:0-1|8-1 component:0-1|8-3 p:0-1|1-3|3-1 entries:1-2|2-1 order:1-1|6-1 n:1-1|6-2 algorithm:2-2|4-3|5-3|6-3 support:2-2|4-1 covariance:2-1|5-1 probability:3-1|6-1 bounds:7-3|8-2
+approximation:0-2|1-1 streaming:0-1|1-1|2-1 d:0-1|1-1 algorithm:1-3|2-3 space:2-1|3-3|4-1|5-1
+norm:0-1|2-1 formulation:0-2|1-3|3-3 convex:0-1|3-1 factors:0-1|1-1
+decomposition:0-1|2-1 tensor:0-1|1-1|2-1|3-1|4-1 theory:4-1|5-3
+methods:0-1|2-1|4-1 aggregation:1-1|2-2 image:1-1|2-1 results:3-2|4-2
+questions:0-2|2-2 approach:1-1|2-3
+features:0-2|5-2|7-1 similarity:0-1|1-2 kernel:1-1|2-1 data:1-1|4-1 learning:2-1|5-3 feature:4-1|6-1|7-1
+video:0-1|4-1 frames:1-1|4-2 subset:1-1|3-1 selection:1-1|3-1 subsets:2-2|5-1 model:3-1|6-1
+shape:0-2|5-1|6-1 objects:0-2|1-3|2-2|4-1 videos:0-1|4-1|9-1 datasets:0-1|8-1 trajectories:1-1|6-1|7-2 video:2-1|8-1 tracking:2-1|3-1|4-2 segmentation:3-1|8-1 flow:3-2|4-1 method:4-2|9-3 motion:4-1|6-1 trajectory:4-1|5-1 object:6-1|9-1
+problem:0-2|1-1|4-1|8-1|9-2 image:0-1|6-1|7-1|9-1 collection:0-1|6-1|9-1 mixtures:0-2|4-2 functions:0-1|1-2|3-1|4-1 dataset:7-2|8-1|9-1 collections:7-1|9-1 approach:8-3|9-2
+recognition:0-1|3-2 face:0-1|1-1|3-1|5-1 variations:0-2|3-2 learning:1-1|6-1 identification:1-2|3-1 features:2-3|3-2|4-1
+datasets:0-1|1-3|2-3 samples:0-1|1-1 transformation:0-1|3-1|4-3 objects:1-1|2-1 transformations:2-3|6-1 classifiers:3-1|5-2
+challenge:0-3|6-1 detection:0-2|2-1|3-1|4-2|5-2|6-1 object:0-1|1-1 images:0-2|1-1 categories:0-1|4-1|5-1 classification:1-1|5-1|7-1 labels:2-1|3-1 data:3-2|4-2|5-1|7-2 algorithm:4-1|7-3 detector:7-2|8-1
+trees:0-3|1-2|2-3|5-1|6-3 decision:0-1|1-1|2-1|5-1 accuracy:0-2|7-1 feature:1-1|2-1|4-3 data:1-1|2-1 use:3-3|5-1 features:4-1|6-1
+object:0-1|1-1 correspondence:1-2|2-1|3-2 features:3-1|4-3
+learning:0-1|1-1|2-1 reinforcement:0-1|2-2 approaches:0-1|3-3 applications:0-1|1-1 agents:2-2|5-2|6-2 idea:5-3|6-1
+complexity:0-2|4-2|6-1 functions:0-1|2-2|3-1|4-1 networks:0-1|1-3|4-1|5-1 terms:0-1|3-1 models:2-3|5-1 depth:3-1|4-1
+framework:0-2|1-3|5-1 g:0-3|2-1|3-1 distribution:0-2|2-2 data:0-1|2-1 d:0-1|2-1|3-1 training:0-1|2-1|4-1 samples:4-1|5-1
+object:0-1|1-1 sources:0-1|1-1 groups:1-1|2-2|3-1|4-1 transformations:1-1|7-1 networks:2-3|4-3 maps:2-2|4-2 feature:2-1|4-1|7-1 group:2-1|8-1 complexity:3-1|8-2 sample:3-1|8-1
+representations:0-2|1-3 attributes:0-1|1-3|3-1 text:0-1|5-1 word:0-1|2-2|3-1|5-1 document:1-1|4-1 vectors:1-3|2-1
+coefficients:0-1|2-3 time:1-1|3-1 n:1-1|3-1 s:1-3|3-1 result:4-3|5-1 problem:4-3|5-1
+regression:0-1|2-1|4-1 results:2-3|10-1 n:2-1|8-1 matrix:2-3|5-1 design:2-1|5-1|7-1|8-1 structure:3-3|8-1 setting:3-1|4-1 values:5-1|7-1 assumptions:6-1|9-2 result:7-2|9-3
+squares:0-1|4-1 scale:0-1|3-1 influence:2-1|3-2 regression:2-1|3-2 observations:2-2|4-1 approximation:3-2|4-1 algorithm:3-3|4-3
+analysis:0-3|2-1 data:0-1|2-1 variables:1-1|2-1 framework:2-2|3-1
+method:0-2|1-3|3-3|4-3 pca:0-1|6-1|7-1 matrix:0-2|4-1 rank:1-1|2-1|4-1 recovery:2-2|7-1 convex:2-1|5-1 relaxation:2-1|5-1 complexity:3-2|7-1 time:4-1|5-2|6-3 o:4-1|5-1|6-1 methods:5-3|8-1 instances:5-1|8-1
+estimator:0-1|1-3|4-1 function:1-2|4-2 algorithm:2-2|4-1|5-3|7-3 stage:3-3|4-3
+model:0-2|1-3|2-1
+problem:0-2|1-3|2-1|6-1 exploration:0-1|1-1 bandit:0-1|8-1 arms:0-1|8-1 class:0-1|1-2 decision:0-1|3-1|5-1|7-1 structures:0-1|5-2 k:0-1|8-1 results:2-1|7-3|8-2 algorithms:3-2|4-1|7-3 classes:3-1|5-1|7-1 bounds:4-2|8-2 factors:7-1|8-1
+risk:0-1|1-1 learning:0-1|4-1 p:0-1|1-1|2-1|3-1|5-1 loss:0-1|3-1 setting:1-1|3-1 rates:1-2|2-1|5-1|7-1 terms:2-1|3-1|5-1|7-1 phenomenon:3-3|5-1 proof:5-2|6-3
+learning:0-2|1-1|4-1 label:0-1|1-1|2-1 algorithm:2-2|3-2
+problem:0-2|6-1 learner:0-3|1-1 decision:0-2|1-1 loss:0-2|4-1 state:0-1|7-1 regret:1-2|2-2|6-1 algorithms:2-1|4-3 case:2-1|4-1 algorithm:5-2|6-1
+work:0-1|5-1 models:0-2|3-1|5-1 problem:1-3|2-1 parameters:1-2|3-2 \em:1-1|5-1 mixture:1-1|3-1|5-1 algorithm:3-2|4-1
+algorithms:0-2|1-1 regret:1-2|2-2 algorithm:1-3|2-2|3-3|4-2 t:1-1|2-1 improvement:2-1|4-2
+classification:0-1|2-1|3-1 neighbor:0-1|1-1|2-1|3-1 spaces:0-1|1-1 convergence:0-1|3-1 bounds:1-1|2-2|3-2
+loss:0-1|4-1|5-1 family:1-3|2-1 algorithms:1-1|3-1|6-1 decay:1-1|8-1 weight:1-1|2-1|8-1 algorithm:2-3|8-1 function:3-1|5-1 distance:6-1|8-1
+rl:0-1|6-1|7-1 algorithms:0-3|6-1 number:0-2|8-1 pair:0-1|2-1 p:0-1|1-1|2-1 states:2-1|8-1 measure:3-2|6-1 mdps:3-2|8-1 concentration:5-1|6-1
+cost:0-1|4-1 communication:0-1|4-1|5-1|6-1|8-1|9-1 problems:0-1|7-1 problem:1-2|2-1 distribution:1-2|2-1 setting:1-1|4-1|5-1|7-1 m:2-1|5-1 minimax:3-1|5-3|6-2 bounds:5-2|7-1 loss:5-2|6-2|8-2|9-1 factor:6-1|8-2|9-1 parameter:7-1|8-1
+programming:0-2|1-2|5-1 value:0-1|1-1 function:1-1|3-1 norm:2-1|3-2 problem:4-2|5-2
+method:0-2|2-3|4-1 policy:0-1|1-1 search:0-1|1-1 models:0-2|2-2 distributions:0-2|1-1 policies:1-2|4-2 dynamics:2-3|3-1
+algorithm:0-3|4-1 reinforcement:0-1|4-3 learning:0-1|2-1 mdp:0-1|3-2 t:0-1|1-2 time:0-1|1-1|2-3 regret:3-2|4-1
+problem:0-2|1-2 approach:1-2|2-3 programming:2-1|3-1 policy:2-1|3-2 algorithm:2-3|3-3
+value:0-1|1-1 approximation:0-1|1-1
+tensor:0-1|3-1 methods:0-1|4-1 data:0-1|2-1|3-1 rank:1-3|2-1|4-2 factorization:1-1|2-3|3-2 approach:2-1|4-3
+problem:0-1|1-1 distribution:0-1|1-1 optimization:0-1|1-1 sampling:1-1|3-1|4-1 process:2-2|3-1
+cascade:0-2|1-3|4-3 particle:0-1|1-1|2-1|4-1 memory:2-1|3-1
+methods:0-3|1-1|2-1 family:2-2|3-2 probability:2-1|4-1 structure:4-2|5-1
+method:0-1|1-1 tests:0-1|1-2|2-1 hypothesis:0-1|2-1 kernel:0-1|2-1
+label:0-1|5-1 labels:0-1|2-2|9-2|10-1 observations:0-1|7-2 setting:1-3|5-2 operator:2-3|3-2 mean:2-1|3-1 algorithm:3-2|4-2|5-2|6-3 learning:3-1|4-1 bounds:3-1|5-1|6-2 domains:7-1|10-1 algorithms:8-3|9-3
+metrics:0-1|1-2|2-1|3-3 performance:0-1|1-1|2-1|4-1|5-1 classification:0-1|1-1|3-1 quantities:0-1|2-1|5-1 population:0-1|2-1|5-1 classifiers:1-1|4-2|6-2|9-2 algorithms:1-1|6-2|7-3|10-1 cases:1-1|3-1 family:2-2|3-3 probability:4-1|8-1 class:4-1|8-1 threshold:4-1|5-1|7-1|8-1 selection:7-1|8-1 algorithm:8-3|9-3
+inference:0-1|1-1|3-1 models:0-1|3-1 gp:0-1|3-3 likelihood:1-1|3-2 algorithms:2-1|4-1
+algorithm:0-2|1-1 sampling:0-1|2-1 approach:2-3|4-1
+framework:0-2|2-1 operators:0-1|2-1 space:0-1|2-1 hilbert:0-1|2-1 matrices:1-1|2-1|4-1 covariance:2-1|3-1|4-1
+distribution:0-1|4-1 source:0-1|2-1|4-1 classifier:0-3|3-2 properties:1-1|4-1 estimation:2-1|3-1 sample:2-1|3-1 selection:2-1|3-1 approach:4-3|5-1
+regression:0-1|6-1 data:0-2|6-1 approximation:1-1|3-2|4-2|7-1 approach:1-3|6-1 number:1-2|3-1|7-1 datasets:2-1|6-1
+problem:0-2|1-1 arms:0-1|1-2|2-1 arm:0-2|1-2 reward:0-1|2-1 strategies:1-2|3-2
+algorithm:1-2|2-3 regret:1-2|2-1
+problems:0-2|4-1 information:0-3|4-2 learner:0-1|1-3|2-1|4-1 feedback:0-1|4-3 losses:1-2|2-3 actions:1-1|3-2 system:2-1|3-2 observation:2-1|3-1 setting:3-1|5-1 algorithm:3-2|5-2
+sampling:0-2|2-1|3-1|4-3 action:1-1|2-1 regret:1-1|2-2 gain:1-1|4-2 information:1-1|4-1 models:2-1|3-1 confidence:3-1|4-3 algorithms:3-2|4-1
+sparsity:0-1|1-1|2-1 pattern:1-1|2-1 model:3-1|4-1
+error:0-1|1-1|2-3 estimation:0-1|1-1|2-1 norm:0-1|2-1 aspects:0-2|1-1 loss:0-1|3-1 design:0-1|3-1 noise:0-1|3-1 analysis:1-1|4-1
+functions:0-1|4-1 s:0-3|1-1 queries:0-1|4-1 point:0-1|4-1 sample:2-1|3-1 algorithm:2-1|4-3|5-1 noise:4-1|5-1
+problem:0-2|3-1 matrix:0-2|1-1|2-2|3-1 entries:0-1|1-1 recovery:1-1|2-1|3-1 algorithm:2-2|3-1|4-1
+learning:0-1|2-1|3-1 regression:0-1|3-1 convergence:1-1|4-1 rate:3-1|4-1 risk:4-1|5-2|6-2
+algorithms:0-2|3-2 learning:0-1|1-1 analysis:0-1|2-1 minimax:0-1|2-1 framework:0-1|4-3 convex:1-1|2-1 games:1-2|2-1 algorithm:4-1|5-2
+distances:0-1|1-1|3-2 n:0-1|1-2 problem:1-3|2-2 feature:1-1|3-1 network:2-1|5-1
+technique:0-2|1-3|2-3|3-2
+map:0-1|2-1|3-1|4-1 respect:0-1|2-1 parameters:0-1|1-1 measure:4-2|5-1 robustness:4-1|5-1 scenarios:4-1|5-1
+structure:0-2|3-2|5-2|6-2 systems:2-1|4-1
+sensors:0-3|1-1|2-1 function:0-1|1-2 number:1-2|2-1 dynamics:2-1|3-1 queries:2-1|3-1
+tensor:0-1|1-2 data:0-1|4-1 entries:1-2|3-2 method:2-2|3-3 minimization:2-1|7-2 n:3-1|8-1 result:4-2|5-1 initialization:5-1|7-1
+tensor:0-1|2-1|3-1|4-1 problems:0-1|1-1 methods:1-3|6-1 minimization:1-1|2-1 method:2-2|6-3 core:2-1|3-1|4-1 problem:4-1|5-2
+method:0-2|1-3 word:0-1|1-1|2-1|3-1 embedding:0-1|1-1 matrix:0-2|1-2|2-2 context:0-1|1-1 tasks:2-1|3-1 similarity:2-1|3-1 factorization:3-3|5-1 svd:3-1|4-1
+ground:0-1|3-1 algorithms:1-3|2-3|3-3|4-3 inference:1-1|3-1|4-1|6-1 power:1-2|6-2 problems:4-1|7-2 symmetries:5-2|6-1 problem:5-2|6-1 approach:7-2|12-1 importance:7-1|8-1 sampling:8-1|9-1 distribution:8-1|9-1 proposal:8-1|9-1 computation:8-1|10-1 weight:8-1|10-1
+algorithm:0-2|1-2|2-3 feature:0-1|1-1|2-1 space:0-1|1-1 kernel:0-1|1-1 approach:1-3|3-3 solution:1-1|2-2|3-1
+problems:0-1|1-1 classification:0-1|1-1|7-1|8-1 support:1-1|4-1 vector:1-1|5-1 svms:1-2|2-1|3-3 performance:2-1|7-2 kernel:2-1|3-1|6-1 data:2-1|4-1 words:3-1|5-1|7-1|8-2 vectors:5-1|7-2 distributions:6-2|7-1
+machines:0-3|1-1 kernel:0-1|1-1|3-1|4-1|8-1|10-1 svm:0-1|10-1 regression:0-1|9-1 cost:0-1|3-1 prediction:0-1|1-1|3-1|6-1|8-1|10-1 insights:1-2|6-1 approximation:3-1|4-1|8-2 error:3-2|4-3 model:4-1|5-1 problem:7-2|10-1 approach:8-1|10-1 algorithm:9-3|10-3 classification:9-1|10-1
+graph:0-1|1-3 node:1-3|2-1
+sampling:0-1|5-2 inference:0-1|1-1|2-2 models:0-1|1-1 learning:0-1|4-1 sample:2-1|4-1 convergence:2-1|5-1
+recognition:0-1|3-1 nets:1-3|2-3|3-1 functions:1-2|2-2 models:1-1|2-1|3-1
+model:1-1|2-1 image:1-1|6-1 network:2-2|4-1|5-3
+error:0-2|1-1|3-1 descent:1-1|4-1 gradient:1-1|4-1 methods:1-1|4-1 difficulty:1-1|2-3 minimum:1-2|3-1 network:2-1|5-1 evidence:2-1|5-2 points:2-1|3-1|4-2 optimization:4-1|5-1
+process:0-1|3-1 noise:0-1|3-1 dropout:1-1|4-1|5-1 network:1-1|6-2 regularizer:3-2|4-3|5-3 setting:4-1|5-1 performance:4-2|6-2
+framework:0-2|6-2 complexity:0-1|3-1 sample:0-1|3-1 graphs:0-2|6-1 results:2-1|5-2 classes:2-1|5-1 graph:2-1|4-1|5-1|6-1 class:2-1|4-3
+procedure:0-2|1-3|2-1 retrieval:0-1|1-1|2-1
+theory:0-1|5-3 estimators:1-3|2-1 convergence:1-1|2-1|4-1 distributions:2-3|3-1|5-1 estimator:3-1|4-3 samples:3-1|5-1
+maximization:0-1|1-3 functions:0-1|1-2|2-1 algorithm:2-1|4-2 approach:5-3|6-3|8-1 cost:5-1|6-1
+optimization:0-3|4-1 inference:1-1|8-1 models:1-1|8-1 functions:1-1|5-1 approach:2-1|7-1 function:3-1|6-1
+problem:0-2|4-1|5-1 sources:1-1|2-1 edges:1-1|2-1 algorithm:3-1|5-3
+gap:0-1|1-1 methods:0-2|1-2|2-1 rates:1-1|2-3
+programming:0-1|4-1 node:1-1|2-2
+methods:0-1|1-2 training:0-1|1-1 layer:0-1|3-2
+problem:0-3|1-1|2-1|3-1|4-2 covariance:0-1|1-1 matrix:1-1|5-2 approach:4-2|5-3|6-3 data:4-1|6-1 methods:5-1|6-1
+algorithms:0-3|1-3 inference:0-1|1-1|2-2 rules:1-2|2-2|6-3 paper:2-1|3-1 map:2-1|4-1|6-1 class:2-1|3-1|4-1 rule:3-3|4-3|5-1 variables:3-1|5-1
+approach:0-3|1-1 inference:0-1|1-1|4-1 map:0-1|1-1 program:1-1|3-1 ground:2-1|4-1
+manifold:1-1|2-1
+solution:0-2|2-3|3-2 uncertainty:0-1|1-1 space:1-1|3-1 belief:1-1|3-1 method:3-2|4-3
+training:0-3|1-3|2-1 dropout:0-1|1-1|2-3|3-3
+gradient:0-1|3-1 descent:0-1|3-1 training:0-1|3-1 methods:1-1|2-1 convergence:1-2|5-1 model:1-1|3-1 selection:1-1|3-2 assumptions:2-1|5-1 time:2-1|4-1 algorithm:3-2|4-3
+properties:0-2|1-1 consistency:0-1|3-1|4-2|5-1|6-2 algorithms:0-1|1-2|3-1|4-2|5-1|6-1 measures:0-1|1-1|5-1 performance:0-1|1-1|6-1 class:0-1|3-1|4-1 work:1-1|4-1 results:3-3|5-2|7-3 knowledge:3-3|5-1 probability:3-1|4-1 measure:4-1|6-1 function:4-1|6-1
+estimator:0-2|2-3|3-3 class:0-1|1-3|2-1 densities:0-1|2-1 information:1-1|4-1
+svm:0-1|1-2|3-2 factor:1-1|3-1 learning:1-1|3-1 feature:1-1|3-1
+analysis:0-2|4-1 classification:0-1|2-1|3-1 classifiers:4-1|5-2
+data:0-1|1-1|3-1 classification:0-1|2-1|3-1 problem:1-1|2-1
+settings:0-1|3-1 class:1-1|6-1 feature:3-1|5-1 approach:5-2|6-3|7-3
+convex:0-1|1-1 polytope:0-1|1-1|4-1 algorithm:0-1|2-1 classification:0-1|3-1 datasets:2-1|3-1 approaches:3-1|4-1
+learning:0-1|1-1 framework:0-2|1-2
+algorithm:0-1|2-1|7-2 object:0-1|10-1 detection:0-1|9-1|10-1 classes:1-2|3-1 manner:1-1|8-1 structure:2-1|4-2 biases:3-2|4-1 bias:3-1|4-2|5-1|7-1|8-1 margin:5-1|6-1|7-1 parameters:5-1|7-1|8-2
+ensemble:0-1|3-1|4-1 algorithms:0-2|1-3|4-2 classification:0-1|2-1 classifier:1-3|2-1 base:1-1|2-1 guarantees:1-1|4-1 bounds:2-2|3-3 rademacher:2-1|3-1 mixture:2-1|3-1
+regression:0-2|1-1|3-1|4-1 outliers:0-1|2-1 matrix:0-1|3-1 fraction:2-1|4-1
+process:0-3|2-1 algorithm:1-2|3-2|4-3
+models:0-3|2-1 algorithm:2-2|3-3|5-1
+approach:0-3|4-1 data:1-1|4-1 estimation:2-1|3-1
+eigenvectors:0-1|3-3|7-1 machine:0-1|7-1 solvers:0-3|5-2 convergence:0-1|5-1 decomposition:1-1|3-2 method:1-1|5-3|6-3 clusters:1-1|3-1 graph:1-2|2-1|3-1|7-1 quality:4-1|5-1 approximation:5-1|7-2
+graph:0-1|1-1 matrix:0-1|2-1 laplacian:0-1|2-1 operator:1-1|2-1|3-1 clusters:1-2|3-2 model:1-1|3-1 block:1-1|3-1
+problem:0-1|2-2
+signal:0-1|3-1|4-1|6-1 decomposition:0-1|6-1 factorization:0-1|1-1 setting:2-1|5-1 model:2-2|4-2|6-1
+brain:0-1|2-1 problem:1-1|2-2 state:2-2|3-1|4-1
+problem:0-2|2-2 rank:1-1|3-1 iteration:1-1|2-1
+problems:0-1|2-1 community:0-1|1-1 disease:0-1|1-1 observations:0-1|1-1 tests:4-1|5-3 family:5-1|6-1
+problems:0-3|4-2 source:0-1|5-1 sources:0-2|2-1|3-1 signal:1-1|2-2|3-3|4-1 energy:4-1|6-1
+learning:0-2|3-1|4-1 player:0-1|1-1 feedback:0-1|1-1|2-1|4-3 time:0-1|1-2 algorithm:1-3|2-1 problem:2-1|3-1|4-1 bandit:2-1|3-1|4-1|5-1 regret:3-2|5-1
+guarantees:0-1|1-2 bounds:1-2|2-2
+partition:0-1|3-1|6-1 model:0-1|3-1|5-2 value:2-1|7-1 functions:3-1|6-1 approximation:3-2|5-3|7-1 result:4-2|5-2
+methods:1-1|4-1 method:2-3|3-3 structure:2-1|3-1
+inference:0-1|1-1|2-1|5-1 model:0-1|1-2 code:2-2|5-2 performance:2-1|3-3 architectures:3-1|4-1 use:4-2|5-2
+function:0-2|1-1|4-2 partition:0-1|1-1|4-1 model:0-1|5-1 bp:1-1|4-1 estimates:2-2|3-2 convergence:2-1|3-1|4-1 properties:3-2|4-2|6-2
+paper:0-3|4-3 problem:0-2|4-3 distribution:0-1|4-1 distributions:0-1|3-1
+model:0-2|1-1 rate:0-1|2-1 sampler:1-2|2-1 states:1-1|2-2 data:1-1|2-2
+number:0-2|1-3|6-3 experiments:0-1|1-1|2-2|4-1|6-1 graph:0-2|1-1|4-2|6-2 improvements:3-3|6-1 setting:4-1|6-3 graphs:5-1|8-1 results:7-2|10-3 characterization:8-2|9-1 operations:9-2|10-3
+paper:0-3|1-3|3-3 domain:0-1|1-1 target:0-1|1-1
+choice:0-1|1-1|2-1 decision:0-1|1-1 framework:1-1|2-2 model:1-2|3-1|5-1 loss:1-2|3-2 parameter:1-1|5-1 mechanisms:1-2|2-1 rules:1-1|5-1 properties:4-2|5-2
+inference:1-1|7-3 solution:2-1|3-1 market:2-2|7-1 model:2-1|3-1|4-1 data:2-1|6-1 equilibrium:3-2|4-1|5-1 case:4-1|5-1 point:4-3|5-1 interest:4-1|7-1
+depth:0-2|1-1|4-1|5-1 relations:1-2|4-2 image:1-1|3-1 task:2-3|3-2 scale:2-1|4-1 method:3-2|5-3
+work:0-3|1-3 evidence:0-1|1-1 case:1-1|2-1
+decisions:0-3|2-1 work:1-3|3-3|4-1 category:1-1|4-1 performance:2-1|3-2 capacity:3-1|6-1|10-1 training:3-1|5-1|7-1|8-1 sets:5-2|7-2 procedure:6-2|10-2 machine:6-3|7-1|8-1|9-1 model:6-1|8-1|9-3 teacher:7-3|8-1|9-1 learners:8-3|9-1 learning:9-1|10-1
+networks:0-2|2-1 images:0-1|4-1 amount:0-1|2-1 computation:0-1|2-1 image:0-1|1-1|2-1|4-1 model:1-2|2-3|3-3|4-2 network:1-1|4-1
+networks:0-1|1-1|2-3|6-1|10-1 learning:1-1|2-1|4-1|5-1|6-1|7-1|10-1 signal:1-1|4-1|9-1 inputs:2-1|4-1|6-3|7-2|9-2 rules:2-1|7-1|8-1|10-1 rule:4-2|5-3|6-2 weights:4-1|6-1 network:4-2|7-3|8-1|9-3 cost:5-1|6-2
+evaluation:0-2|1-3 models:1-3|4-2 accuracy:1-2|4-2 operations:1-1|2-1 computation:2-1|3-2 layers:2-1|4-1 model:2-1|4-1
+classification:0-3|4-1 data:0-1|4-1 graphs:0-1|1-1|3-1
+images:0-1|4-2|5-1|6-1|8-2 face:0-1|1-1|2-1|4-1|5-1|6-1 view:1-1|6-1 recognition:1-1|2-1 features:2-2|6-1 brain:3-1|4-1|5-3 data:4-2|8-1 image:4-1|6-1
+approaches:0-2|5-2 objects:0-2|3-1 images:0-1|3-1 framework:1-2|5-3 object:1-1|3-1 network:1-1|3-3 networks:1-3|2-2|4-2 variables:2-2|3-3|4-2 optimization:2-1|4-1
+network:1-2|2-2 feature:4-3|5-1 algorithm:4-2|5-1
+series:0-2|2-2 time:0-1|2-1 transformations:0-2|1-1
+matching:0-3|1-1|3-1 tasks:0-1|4-2|5-1 language:0-1|1-1|4-1 structures:1-2|3-2 models:2-2|3-3|4-3|5-1 sentences:2-2|3-1
+networks:0-3|2-1 architecture:0-1|3-2 language:1-1|7-1 layers:3-2|7-1 task:4-1|6-1 results:5-3|6-2
+algorithm:0-3|2-1|3-1|7-1 solutions:2-3|7-1 problem:2-1|3-2|7-1 selection:2-1|3-2|6-1|7-1 strategy:2-1|6-1 people:4-3|5-3|6-1|7-3 strategies:4-1|5-1|7-1 experiment:4-1|6-1
+models:0-3|2-1 representations:0-2|3-1|5-3 framework:1-1|2-2 identifiability:1-1|2-1|3-2 task:4-1|5-1
+skills:0-1|1-3|2-2|4-2|7-3|8-3 experts:1-1|4-1 domain:1-1|8-1 practice:1-1|3-1 skill:1-2|3-2 technique:2-2|3-3|4-3|5-2|7-1|8-3|9-1 performance:2-1|7-1|8-2 datasets:5-1|7-1 results:6-2|9-1
+algorithms:0-1|1-1
+optimization:0-2|5-1 optimum:2-1|4-1 bayes:2-1|5-1 vb:2-1|4-1 model:3-2|4-3|6-3|7-1 algorithm:6-2|8-3
+optimization:1-2|2-1 gradients:1-1|2-2|3-1|7-2 method:4-3|8-2 gradient:4-2|7-1
+lda:0-1|1-1|3-1 vb:1-2|2-1|3-3
+methods:0-3|1-3|10-1 inference:0-1|5-2 computation:2-1|3-3 o:3-1|6-1 parameters:3-1|4-1|6-1 number:4-2|6-2 examples:6-1|8-1 data:6-1|8-1 method:8-3|10-3
+settings:0-1|1-1 data:0-1|1-1|2-1 algorithm:2-3|4-2|5-3 chain:3-1|4-1
+algorithm:0-3|5-2 prediction:0-1|5-1 localization:0-1|4-1 object:0-1|4-1 information:0-2|1-3|2-3|3-2|4-2|5-1 model:1-2|3-1 training:1-1|2-1
+
+regularization:0-1|3-1|4-3 study:0-3|2-3 structure:0-1|3-1|4-1 prediction:1-1|2-1 model:1-1|3-2 structures:2-3|3-1|6-1 generalization:2-1|3-1 training:3-1|5-1|7-1 method:5-3|6-3|7-3 speed:5-2|7-1
+matrix:0-1|1-1|2-1|3-1|4-2|5-1|6-1 kernel:0-1|1-1|2-1|3-1|4-1|5-1|6-1 task:1-1|6-1 entries:1-2|2-1|5-1|6-1 log-likelihood:1-2|2-3|6-1 work:3-3|4-1 likelihood:5-2|6-2
+action:0-1|2-1|3-1|9-1 recognition:0-1|9-1 attributes:1-1|2-1|3-1|5-1|6-1 type:3-1|4-3 representation:5-3|6-2|9-3 optimization:7-1|8-1
+noise:0-1|2-1 structures:0-1|2-1 scale:0-1|1-1|2-1|5-1 kernel:0-1|5-1 estimation:0-1|2-2|5-3 formulation:1-2|2-3|3-3 approach:2-2|5-1
+parameters:1-3|6-1 use:2-1|3-1 shape:3-2|5-1|7-2 model:4-2|5-2|6-1 term:4-1|5-1 framework:6-1|7-1 estimation:6-1|7-1
+learning:0-1|1-1|2-1|3-1 samples:0-1|2-1 diversity:1-1|2-1 term:3-3|4-1 regularization:3-1|4-1 datasets:5-1|6-1
+problem:0-2|1-3 parameters:0-2|1-1|3-2|5-2 model:0-1|3-1|5-1 mean:0-1|1-1|3-1 result:3-3|4-1 time:3-1|5-1 proof:4-1|5-3 reduction:5-2|6-3
+framework:0-3|4-1 algorithms:0-2|4-2 distributions:1-1|2-2
+version:0-2|1-3 approximation:0-1|1-1|2-1 function:0-2|1-1 product:0-1|1-1 graph:0-1|1-1|2-3|3-1 region:0-1|1-1|2-1|3-1 conditions:1-2|2-3 terms:1-1|3-1
+tracking:0-1|1-1|3-1 constraints:0-2|1-2 data:0-1|1-1 method:2-1|3-1
+architecture:0-2|1-1|2-3
+learning:0-1|2-1|4-1 em:0-1|1-2 sampling:0-1|1-1 problem:0-1|2-2 k:0-1|1-1|2-1 point:0-1|4-1 solver:2-1|3-2 methods:4-1|5-1
+data:0-1|4-1 results:1-2|4-2 conditions:1-2|3-2 queries:1-2|2-3 form:1-1|3-1 p:1-1|3-1 y:1-1|3-3 effects:3-2|4-1
+selection:0-3|4-1 model:0-1|4-1 machine:0-1|5-1 approaches:1-1|2-1 estimation:1-1|3-1|6-2|7-1 framework:1-1|5-3|6-1 optimization:2-1|5-1 convex:2-1|3-1|5-1 gap:3-2|6-2 correlation:3-1|7-1 graph:3-1|7-1 method:3-1|4-3 minimization:4-2|7-1 approach:4-1|7-3|8-1 setting:5-1|7-1 methods:5-1|6-3
+algorithm:0-2|1-1|2-1|4-1|5-1 vertices:1-1|3-1|5-1 instances:3-2|5-2 programming:4-1|5-1
+family:0-2|2-2 problems:0-1|5-1|6-1 minimization:0-2|3-2 function:0-1|2-2 loss:0-1|2-1 approaches:1-1|5-1 regularizer:3-3|5-3 approach:4-2|5-3|6-3 subspace:4-1|6-1 selection:4-1|5-1 regularizers:4-1|6-1 algorithm:4-1|6-1
+permutations:0-1|2-1 structure:0-2|1-1 models:0-1|1-1
+method:0-2|2-3 data:0-1|1-1|3-1
+video:0-1|8-1 signals:0-1|1-1|2-1 problem:1-2|4-3 segmentation:1-2|3-1|4-1 function:1-1|5-1 data:1-1|3-2|8-1 signal:1-1|4-1 n:4-1|5-1
+tree:0-2|2-2 cluster:0-1|2-1 density:0-1|3-1 method:3-3|4-1
+relaxation:0-1|2-3|3-1 cut:0-1|1-2|4-1 methods:0-1|1-1 problem:2-1|3-1
+clusters:0-1|4-2|5-1 size:1-3|2-3|5-1|7-1 graph:1-1|2-1 problem:1-3|8-2 network:2-1|5-1|7-1 matrix:2-3|3-1|8-1 columns:3-1|8-1 setting:3-1|8-1 algorithms:4-2|8-2 clustering:4-1|8-1 algorithm:5-3|6-3|7-3|8-2 memory:5-2|7-2 information:6-2|8-1
+games:0-2|1-1|3-1|4-3|5-1|6-1|8-1|10-1 agents:1-1|2-1|8-1 risk:2-2|3-2|10-1 transfer:2-1|3-1|9-1|10-1 variants:5-2|8-1|9-1 time:6-2|8-1 problem:7-1|9-3 case:8-1|9-1
+algorithms:0-3|1-3 strategy:1-2|3-2 game:1-1|2-1|4-1 algorithm:3-2|4-3
+voting:0-1|1-1|4-1 agents:0-1|1-2|2-1|3-1|4-3 computer:1-1|4-1 model:1-2|2-3
+criterion:0-2|1-3|5-3 solution:0-1|5-2 problems:0-1|5-1 agents:0-3|1-1 approach:2-2|3-3|4-2|5-3 programming:2-1|5-1 policy:2-2|3-1
+algorithm:1-2|3-2
+functions:0-1|3-1 reward:0-1|1-1|2-1|6-1 model:1-2|2-2 function:1-1|2-1|3-1|6-2 approximation:3-1|4-1 policies:3-1|8-1 domain:6-3|7-3
+sampling:0-3|4-1 methods:0-1|1-1 parameters:0-1|2-1 model:0-1|2-1 hyperparameters:0-1|2-1 method:2-2|4-3
+sampling:0-1|1-1|2-2 gradient:1-1|2-3 problem:2-3|3-2 noise:2-1|3-1
+processes:0-3|6-2 gps:0-3|8-3 inference:0-1|3-1|5-1 regression:1-1|3-1|7-1 models:2-1|3-1|8-1 gp:3-1|7-1 data:4-1|5-1|6-1|7-1|8-1
+regression:0-1|3-1|4-1|5-1|6-1 functions:0-1|1-1 data:0-1|3-1|6-1 model:2-2|3-2 function:2-1|5-1 parameters:2-1|6-1 tuning:2-1|3-1|6-1 process:3-3|4-1|5-2 complexity:5-1|6-1
+learning:0-1|3-2 inference:0-1|1-3|2-1|3-2 problem:1-3|2-2 framework:3-1|4-3
+inference:0-1|5-1 posterior:0-1|2-1 cluster:1-1|3-1 sampler:2-2|3-1 quality:4-2|5-1
+framework:0-2|1-3|2-1|4-3 parameter:0-1|4-1 learning:0-1|3-1 machine:0-1|3-1|4-2 algorithm:1-1|2-2 problems:2-2|3-1|4-1 scale:3-1|4-1
+data:0-1|2-1 workers:0-1|1-1 model:1-1|2-1 algorithms:1-1|5-1 ml:1-1|3-1|4-1 updates:1-2|3-1 system:2-1|3-2
+communication:0-3|1-1 algorithms:0-1|2-1|3-1 experiments:2-1|3-1
+dictionary:0-1|1-2|3-2 classification:0-1|4-1 methods:1-1|2-1|4-1 signal:1-2|3-1 coefficients:1-2|2-1 representation:1-1|2-1|3-1 training:2-2|4-1 testing:2-1|4-1 time:2-1|4-1
+optimization:0-1|3-2 message:1-1|4-1 solutions:1-1|4-1|5-2 number:1-1|3-1
+inference:0-1|5-1 effect:0-1|5-1 approach:2-2|5-1|6-1 paths:2-2|4-1
+cluster:1-2|3-1|7-1 function:2-2|3-3 size:3-1|7-1 method:6-3|7-3 clusters:6-3|7-2
+procedure:0-2|5-1 approach:0-1|3-1 class:1-1|5-1 functions:1-1|5-1 score:1-1|2-1|5-1 method:4-1|5-2
+models:0-1|1-1|2-2|3-2|5-3 optimization:1-1|4-1 regions:1-1|3-1 convex:2-1|3-1|4-1
+problem:2-1|3-1 distributions:3-1|4-1|5-1 algorithm:5-2|6-1
+classification:0-1|1-1 similarities:0-1|1-1 labels:0-1|1-1|3-1 class:0-1|1-1 examples:1-1|2-1 algorithm:2-2|4-1 matrix:2-2|3-2 label:2-1|3-1 similarity:2-1|3-1
+analysis:0-1|1-2 batch:0-1|2-1 methods:0-1|1-1 clustering:0-1|1-1|3-1 cluster:1-1|2-1
+problem:0-2|1-2|6-1 convex:0-1|3-1|5-1 function:0-1|3-1 variables:0-1|1-1|3-1 approach:1-3|3-2 block:1-1|6-1 iteration:1-1|2-1|3-1 parallel:2-1|3-1 method:2-2|4-1 algorithm:2-1|5-1 convergence:4-2|5-1 selection:4-1|6-1
+descent:0-3|3-3 gradient:0-1|2-1|3-1 method:2-3|4-3 reduction:2-1|3-1 variance:2-1|3-1
+polytope:0-3|3-2 convex:0-1|1-1|2-1|4-1|5-1 permutation:0-1|1-1 variables:0-2|1-1 constraints:0-1|1-1 optimization:0-1|4-1 n:1-2|3-1 formulation:2-2|4-1|5-1 problem:2-1|4-1|5-1 results:3-2|5-2
+bregman:0-1|1-1 o:3-1|4-1
+method:0-1|2-3 guarantees:0-1|6-2 problems:0-1|2-2|7-1 problem:1-3|2-1|3-1 optimization:1-1|2-1|7-1 function:1-1|3-1 loss:1-1|3-1 e.g:1-2|5-2 decomposition:1-3|3-1|7-1 matrix:1-1|3-1|4-1|7-1 rate:2-2|4-3|5-3 o:2-1|4-2 dimensions:2-1|6-1 convergence:5-1|6-1
+problems:0-2|2-2|9-2 risk:0-1|1-1 minimization:0-1|2-1 function:1-1|2-3 regularization:1-1|2-1 block:2-1|3-1|4-1|6-1 descent:2-1|6-1 methods:3-3|8-1|10-1 gradient:3-2|4-1|6-2|7-1 iteration:3-1|6-1|8-1 data:4-2|6-1 method:6-2|7-2|8-3|9-2|10-3
+subspace:0-1|1-1|3-1 k:0-1|3-1 covariance:0-1|4-1 matrix:0-1|3-1|5-1 oracle:1-1|5-1 estimator:1-3|3-3|5-3 support:1-1|3-2|4-1 family:2-2|3-1|5-1 relaxation:2-1|5-1 semidefinite:2-1|5-1 pca:2-1|4-1|5-1 assumption:3-1|5-1 magnitude:3-1|5-1 projection:3-1|5-1 rate:3-2|5-2 convergence:3-1|5-1
+problem:0-2|2-2|5-1 component:0-1|1-1 k:0-1|2-1 hand:1-1|3-1 information:1-1|7-3|8-1 ratio:2-1|4-3 dimensions:2-3|4-1|6-1 algorithms:3-2|8-2 iteration:3-1|6-1 power:3-1|6-1 side:7-1|8-1
+theory:0-1|3-1 datasets:1-1|2-1|4-1
+vector:0-2|1-1|4-1|5-1 observations:0-1|9-1 problems:0-1|2-2|3-2|6-1 information:1-3|2-2 optimization:2-1|7-1 estimation:6-3|9-1|10-1 risk:8-2|9-2|10-1 measurements:9-1|10-1
+setting:0-2|1-1 point:0-1|1-1 pca:1-1|2-1|3-1|4-1 subspace:1-2|6-1 problems:2-2|4-1 clustering:2-1|4-1 k:2-1|4-1 communication:3-1|4-1|5-2
+method:0-2|3-1 manifold:0-1|1-1|2-1|3-1 alignment:0-1|2-1|3-1 datasets:0-1|1-3 structures:1-2|2-1 matching:1-2|2-1|3-1
+distributions:0-2|1-1 projection:1-1|2-3 distribution:1-1|7-2 base:1-1|7-1 subsets:2-1|4-2 domain:2-1|7-1 inference:4-3|5-3 data:6-1|8-1 support:7-1|8-1
+model:0-1|3-2 time:0-1|4-1 signal:0-1|2-2|4-1 spikes:2-1|4-1 error:4-1|5-1 reconstruction:4-1|5-1
+information:0-2|8-2 motion:0-1|8-1 brain:0-3|8-3 time:0-1|7-1 mechanism:1-2|2-3 tracking:1-2|3-1|5-1|7-2|8-1 systems:1-1|3-1 model:3-1|8-3 behaviors:3-2|8-2 network:5-1|7-3
+brain:0-1|1-1|2-1|3-1|4-1|6-1|8-1 regions:0-1|1-3|2-1|4-1|8-1 state:1-2|3-3|8-1 model:2-1|6-3|8-3 states:2-1|6-1 data:2-1|5-1|8-3 content:3-2|5-1 gps:4-2|5-1|6-1 mixture:5-1|6-1
+populations:0-1|1-1|4-1|5-3 neurons:0-1|1-1|2-1|4-1|5-1 areas:0-1|4-1 brain:0-1|5-1 methods:1-1|4-2 interaction:1-2|5-3 interactions:2-2|3-1 variables:2-3|3-1
+network:0-1|1-1|3-2 series:0-1|2-1|6-1 time:0-1|2-1|3-1|6-1|7-1|8-1 estimation:1-3|2-1|4-1 covariance:1-1|2-1|4-2|6-1 algorithm:1-1|5-2|7-3 accuracy:2-3|7-1 optimization:3-1|5-1 parameters:3-3|5-1 signal:3-1|5-1 processing:3-1|5-1 networks:3-1|7-1|8-1 size:3-1|7-1|8-1 filter:4-2|6-1 convolution:4-1|6-1 solution:7-1|8-2
+framework:0-2|2-1|3-1|4-3|6-1|7-1 learning:0-1|6-1|8-1 feature:0-1|4-1|8-1 parameters:0-2|4-1|7-2 model:0-1|4-1 components:0-1|1-1|3-1 tasks:1-1|8-1 component:1-1|5-1 methods:2-1|4-2 regularization:3-1|4-1 regularizers:4-1|5-1 formulations:7-2|8-1
+learning:0-1|3-1|5-1 weight:0-1|1-1 tensor:1-1|2-1|5-1|6-3 rank:1-1|2-1|3-1|6-1 norm:4-2|6-1
+k:0-1|1-1|2-1 prediction:1-2|3-1|6-1 label:1-1|3-1 algorithm:4-2|5-1|6-3 classification:4-1|6-1
+regression:0-1|1-1|4-1 methods:1-1|4-2
+lasso:0-1|1-1|2-3|3-1|4-1 group:0-1|1-1|2-1|3-1|4-1 sparsity:0-2|1-2 level:0-1|1-1 selection:1-1|4-1 feature:1-1|2-1|4-1
+transfer:0-1|1-1|6-1|9-2 learning:0-1|1-1|6-1 data:0-2|10-1 training:0-1|4-1 domain:0-1|6-1 work:1-3|2-3|3-3|6-3|7-1 model:1-1|8-1 tasks:1-1|9-1 shift:2-1|3-1|4-3|5-3|9-1 distributions:2-2|3-2|7-1 domains:2-1|3-1|8-1 labels:3-1|6-3 p:3-1|4-1|5-1 support:4-1|8-1 test:4-1|6-1 case:6-2|8-2

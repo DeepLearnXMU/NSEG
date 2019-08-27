@@ -9,6 +9,14 @@ The following packages are needed:
 - Pytorch == 0.4
 - torchtext
 
+
+### Dataset Format
+Each line in *.lower is a document: sentence_0 <eos> sentence_1 <eos> sentence_2
+
+*.eg:
+entity1:i-r means entity1 is in the sentence_i and its role is r.
+
+
 ### Training and Evaluation
 
 CUDA_VISIBLE_DEVICES=0 python -u main.py --model modelname --vocab vocab.100d.pt \
